@@ -479,5 +479,10 @@
         ]
       }
     }
+  },
+  "resources": {
+    "files": [
+      "ding.wav"
+    ]
   }
 }
